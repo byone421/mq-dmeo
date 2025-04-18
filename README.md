@@ -1,3 +1,6 @@
+# 前言
+这是一个RabbitMQ学习笔记总结
+
 # 简介
 RabbitMQ 是使用 Erlang 编写的一个开源的消息队列，它实现了AMQP协议(<font style="color:rgb(0,0,0);">高级消息队列协议</font>)，是主流的消息队列之一。它支持多种客户端如：Python、Ruby、.NET、Java、JMS、C、PHP、ActionScript、XMPP、STOMP 等
 
